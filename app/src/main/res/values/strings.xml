@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OKC</string>
+    <string name="players">Players</string>
+    <string name="stats">Statistics</string>
+    <string name="gallery">Gallery</string>
+    <string name="new_todo">New todo</string>
+    <string name="start">Start</string>
+    <string name="pending">Pending</string>
+    <string name="end">End</string>
+</resources>

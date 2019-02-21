@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="todo_status">
+        <item>@string/start</item>
+        <item>@string/pending</item>
+        <item>@string/end</item>
+    </string-array>
+
+
+</resources>
